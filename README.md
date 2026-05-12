@@ -41,8 +41,7 @@ Demo / Development Version
 
 ## Screenshots
 
-Coming Soon
-
+![Platform Preview](platform-preview.png)
 ---
 
 ## Author
